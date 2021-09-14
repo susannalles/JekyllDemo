@@ -5,6 +5,6 @@
 layout: home
 ---
 
-# Página de inicio
+## Página de inicio
 
 Contenido aquí 
