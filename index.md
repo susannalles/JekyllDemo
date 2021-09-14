@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Contenido aquí 
+Contenido aquí, podéis escribir una breve bienvenida. 
