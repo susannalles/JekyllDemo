@@ -5,6 +5,4 @@
 layout: home
 ---
 
-## Página de inicio
-
 Contenido aquí 
